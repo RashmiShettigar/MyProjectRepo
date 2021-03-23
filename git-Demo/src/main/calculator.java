@@ -22,4 +22,8 @@ public class calculator {
 	public void square(int num1){
 		System.out.println(num1*num1);
 	}
+	public void cube(int num1){
+		System.out.println(num1*num1*num1);
+	}
+	
 }
