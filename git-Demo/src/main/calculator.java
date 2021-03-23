@@ -13,7 +13,11 @@ public class calculator {
 		System.out.println(num1-num2);
 	}
 	
-	public void prod(int num1, int num2){
-		System.out.println(num1*num2);
+	public void mod(int num1, int num2){
+		System.out.println(num1%num2);
+	}
+	
+	public void div(int num1, int num2){
+		System.out.println(num1/num2);
 	}
 }
